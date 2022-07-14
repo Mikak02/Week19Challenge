@@ -1,21 +1,18 @@
 # Budget Tracker
 
 ## Purpose
-This project is designed give the user the ability to generate a webpage that displays 
-a team's basic info so that the user has quick acess to their emails and Github Profiles.
+This project is designed give the user the ability to track their budget without an internet connection, and then get a notification when the transactions are added to the budget when the user is back online. This online/offlline functionality will help the user keep track of their finances.
 
 
 ## Built With
-- JavaScript
-- HTML
-- Bootstrap
-- Node.js
-- Jest
-- Inquirer
+- MongoDB
+- Mongoose
+- Express
 
 
-## Link to Video Submission
-[Video] (https://drive.google.com/file/d/1gJZscx8GQ6hlA7u0IDdLQjVODU9w76Vb/view)
+
+## Link to Deployed Application
+[Link] ()
 
 ## Screenshot
-![Screenshot of website](./dist/assets/images/Screenshot.png)
+![Screenshot of website](./images/Screenshot.png)
