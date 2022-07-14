@@ -8,6 +8,7 @@ This project is designed give the user the ability to track their budget without
 - MongoDB
 - Mongoose
 - Express
+- MongoDB Atlas
 
 
 
